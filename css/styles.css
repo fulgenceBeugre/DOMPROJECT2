@@ -1,0 +1,35 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f1f1f2;
+}
+
+.container {
+  text-align: center;
+}
+
+#color-box {
+  margin: 30px auto;
+  background-color: #365444;
+  border-radius: 10px;
+  width: 500px;
+  height: 500px;
+}
+
+#change-color-btn {
+  padding: 15px 25px;
+  background-color: #222;
+  color: white;
+  border: 1px solid #222;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+#change-color-btn:hover {
+  background-color: #555;
+}
