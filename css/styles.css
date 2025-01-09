@@ -16,12 +16,12 @@ body {
   margin: 30px auto;
   background-color: #365444;
   border-radius: 10px;
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
 }
 
 #change-color-btn {
-  padding: 15px 25px;
+  padding: 10px 20px;
   background-color: #222;
   color: white;
   border: 1px solid #222;
